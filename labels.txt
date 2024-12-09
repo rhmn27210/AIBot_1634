@@ -1,0 +1,4 @@
+0 Kemeja
+1 Kaos
+2 Gaun
+3 Jaket
